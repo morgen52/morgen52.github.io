@@ -76,7 +76,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 # 💼 Experiences
 - **Research Intern, Microsoft** (May. 2025 - Dec. 2025)
 - **Undergraduate Student Instructor, EECS, Peking University** (Sep, 2021 - Jul, 2025)
-    - Instructed over 40 undergraduate students
+    - Instructed over 40 undergraduate students.
 - **Teaching Assistant, Introduction to Computing (Python), Peking University** (Sep. 2021 - Dec. 2025)
     - Instructed over 480 undergraduate students across four semesters. 
     - Developed a [browser-based Python IDE](https://ide.wjpython.bdware.cn) to provide a zero-installation, privacy-first coding environment for beginners.
