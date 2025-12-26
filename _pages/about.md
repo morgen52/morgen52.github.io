@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am **LIU Mugeng**, a Ph.D. candidate at the School of Computer Science, Peking University, advised by Prof. [MA Yun](https://www.ai.pku.edu.cn/en/info/1458/2026.htm), Prof. [LIU Xuanzhe](http://www.liuxuanzhe.com/), and Prof. [MEI Hong](https://cs.pku.edu.cn/info/1158/1828.htm).
+Hi there!👋 I am **LIU Mugeng**, a Ph.D. candidate at the School of Computer Science, Peking University, advised by Prof. [MA Yun](https://www.ai.pku.edu.cn/en/info/1458/2026.htm), Prof. [LIU Xuanzhe](http://www.liuxuanzhe.com/), and Prof. [MEI Hong](https://cs.pku.edu.cn/info/1158/1828.htm).
 My research interests lie at the intersection of **software engineering/systems** and **artificial intelligence**, with a focus on building **efficient, robust, and interaction-friendly runtime systems for LLM-based agents**, especially in **Web environments**.
 
 Currently, I am particularly interested in the **Agentic Web**. Specifically, I am passionate about exploring:
@@ -33,7 +33,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 
 # 🔥 News
 - *Dec. 2025*: 🎉🎉🎉 Our paper on bugs in LLM inference engines was accepted by TOSEM 2026!
-<!-- - *Dec. 2025*: Our empirical study on WebGPU was accepted by ICSE 2026! -->
+- *Dec. 2025*: 🎉🎉🎉 Our empirical study on WebGPU was accepted by ICSE 2026!
 - *Aug. 2025*: 🎉🎉🎉 Our paper "SheetDesigner" was accepted by EMNLP 2025! This work was done during my internship at *Microsoft*!
 - *Apr. 2025*: 🎉🎉🎉 Our paper "WebANNS" was accepted by SIGIR 2025!
 - *Jan. 2025*: 🎉🎉🎉 Our paper "WeInfer" was accepted by WWW 2025!
@@ -65,7 +65,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
   - Chen, Qin, Ren, Yuanyi, Ma, Xiaojun, **Liu, Mugeng**, *et al.* “SheetDesigner: Assisting Spreadsheet Design with Large Language Models.” *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, CCF-B)*. \[[Paper](https://aclanthology.org/2025.emnlp-main.957/)\]
 
 - **Others**
-  - **Liu, Mugeng**, *et al.* “Research artifacts in software engineering publications: Status and trends.” *Journal of Systems and Software (JSS 2024, CCF-B)*. \[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016412122400075X)\] \[[Repo](https://github.com/morgen52/SE-artifact)\]
+  - **Liu, Mugeng**, *et al.* “Research Artifacts in Software Engineering Publications: Status and Trends.” *Journal of Systems and Software (JSS 2024, CCF-B)*. \[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016412122400075X)\] \[[Repo](https://github.com/morgen52/SE-artifact)\]
 
 # 📂 Projects
 - **ATMOS: AI-Assisted Teaching Mode Optimization System** (Mar. 2022 – Feb. 2024)
