@@ -42,8 +42,8 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 - *Mar. 2024*: 🎉🎉🎉 Our paper on research artifacts in SE publications was accepted by JSS 2024!
 
 # 📖 Educations
-- \[Sep. 2022 - Jul. 2027\] Ph.D, School of Computer Science, Peking University
-- \[Sep. 2018 - Jul. 2022\] B.E., School of Electronics Engineering and Computer Science, Peking University
+- \[Sep. 2022 - Jul. 2027\] Ph.D., School of Computer Science, Peking University
+- \[Sep. 2018 - Jul. 2022\] B.S., School of Electronics Engineering and Computer Science, Peking University
 
 # 📝 Selected Publications 
 
