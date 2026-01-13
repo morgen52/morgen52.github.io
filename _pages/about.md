@@ -32,7 +32,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 </div>
 
 # 🔥 News
-- *Dec. 2025*: 🎉🎉🎉 Our paper on bugs in LLM inference engines was accepted by TOSEM 2026!
+- *Jan. 2026*: 🎉🎉🎉 Our paper on bugs in LLM inference engines was accepted by TOSEM 2026!
 - *Dec. 2025*: 🎉🎉🎉 Our empirical study on WebGPU was accepted by ICSE 2026!
 - *Aug. 2025*: 🎉🎉🎉 Our paper "SheetDesigner" was accepted by EMNLP 2025! This work was done during my internship at *Microsoft*!
 - *Apr. 2025*: 🎉🎉🎉 Our paper "WebANNS" was accepted by SIGIR 2025!
@@ -58,7 +58,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 - **Robust Agent**
   - **Liu, Mugeng**, *et al.* “WebAssembly for Container Runtime: Are We There Yet?” *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3712197)\] \[[Repo](https://github.com/morgen52/measurement_of_wasm_container)\]
   - Zhang, Yixuan, **Liu, Mugeng**, *et al.* “Research on WebAssembly Runtimes: A Survey.” *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3714465)\]
-  <!-- - **Liu, Mugeng**, *et al.* “A First Look at Bugs in LLM Inference Engines.” *ACM Transactions on Software Engineering and Methodology (TOSEM 2026, CCF-A)*. (to be appeared) -->
+  - **Liu, Mugeng**, *et al.* “A First Look at Bugs in LLM Inference Engines.” *ACM Transactions on Software Engineering and Methodology (TOSEM 2026, CCF-A)*. \[[Paper](https://arxiv.org/abs/2506.09713)\]
 
 - **Agent Workflow**
   <!-- - Qin Chen, Yuanyi Ren, Xiaojun Ma, **Mugeng Liu**, *et al.* “SheetDesigner: Assisting Spreadsheet Design with Large Language Models.” *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, CCF-B)*. \[[Paper](https://aclanthology.org/2025.emnlp-main.957/)\] -->
