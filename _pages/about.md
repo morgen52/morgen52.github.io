@@ -32,6 +32,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 </div>
 
 # 🔥 News
+- *Jan. 2026*: 🎉🎉🎉 Our paper "LaTune" was accepted by WWW 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our paper on bugs in LLM inference engines was accepted by TOSEM 2026!
 - *Dec. 2025*: 🎉🎉🎉 Our empirical study on WebGPU was accepted by ICSE 2026!
 - *Aug. 2025*: 🎉🎉🎉 Our paper "SheetDesigner" was accepted by EMNLP 2025! This work was done during my internship at *Microsoft*!
@@ -53,6 +54,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
   - **Liu, Mugeng**, *et al.* “WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers.” *Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3726302.3730115)\] \[[Repo](https://github.com/morgen52/webanns)\] \[[Demo](https://morgen52.github.io/webanns)\]
   <!-- \[Citations: <span class="show_paper_citations" data="LzfXRiAAAAAJ:Y0pCki6q_DkC"></span>\] -->
   <!-- google scholar citation_for_view=LzfXRiAAAAAJ:Y0pCki6q_DkC -->
+  - Zhong, Siqi, **Liu, Mugeng**, *et al.* “LaTune: Lightweight and Adaptive Configuration Tuning for LLM Inference on Edge Devices.” *Proceedings of the ACM Web Conference 2026 (WWW 2026, CCF-A)*. (To be appeared)
   - Chen, Zhiyang, Ma, Yun, Shen, Haiyang, and **Liu, Mugeng**. “WeInfer: Unleashing the Power of WebGPU on LLM Inference in Web Browsers.” *Proceedings of the ACM Web Conference 2025 (WWW 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714553)\] \[[Repo](https://github.com/csAugust/WeInfer)\]
 
 - **Robust Agent**
