@@ -64,8 +64,8 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
   - Chen, Zhiyang, Ma, Yun, Shen, Haiyang, and **Liu, Mugeng**. "WeInfer: Unleashing the Power of WebGPU on LLM Inference in Web Browsers." *Proceedings of the ACM Web Conference 2025 (WWW 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714553)\] \[[Repo](https://github.com/csAugust/WeInfer)\]
 
 - **Robust Agent**
-  - **Liu, Mugeng**, *et al.* "WebAssembly for Container Runtime: Are We There Yet?" *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3712197)\] \[[Repo](https://github.com/morgen52/measurement_of_wasm_container)\]
   - **Liu, Mugeng**, *et al.* "A First Look at Bugs in LLM Inference Engines." *ACM Transactions on Software Engineering and Methodology (TOSEM 2026, CCF-A)*. \[[Paper](https://arxiv.org/abs/2506.09713)\]
+  - **Liu, Mugeng**, *et al.* "WebAssembly for Container Runtime: Are We There Yet?" *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3712197)\] \[[Repo](https://github.com/morgen52/measurement_of_wasm_container)\]
   - Zhang, Yixuan, **Liu, Mugeng**, *et al.* "Research on WebAssembly Runtimes: A Survey." *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3714465)\]
 
 - **Others**
