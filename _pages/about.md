@@ -32,7 +32,9 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 </div>
 
 # 🔥 News
+- *Jan. 2026*: 🎉🎉🎉 Our paper "ROGA" was accepted by ICLR 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our paper "LaTune" was accepted by WWW 2026!
+- *Jan. 2026*: 🎉🎉🎉 Our paper "DRAGON" was accepted by EACL 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our paper on bugs in LLM inference engines was accepted by TOSEM 2026!
 - *Dec. 2025*: 🎉🎉🎉 Our empirical study on WebGPU was accepted by ICSE 2026!
 - *Aug. 2025*: 🎉🎉🎉 Our paper "SheetDesigner" was accepted by EMNLP 2025! This work was done during my internship at *Microsoft*!
@@ -51,23 +53,24 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 <!-- Citations: <strong><span id="total_cit">-</span></strong> |  h-index: <strong><span id="h_index">-</span></strong>  |  i10-index: <strong><span id="i10_index">-</span></strong> -->
 
 - **Efficient Agent**
-  - **Liu, Mugeng**, *et al.* “WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers.” *Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3726302.3730115)\] \[[Repo](https://github.com/morgen52/webanns)\] \[[Demo](https://morgen52.github.io/webanns)\]
+  - **Liu, Mugeng**, *et al.* "WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers." *Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3726302.3730115)\] \[[Repo](https://github.com/morgen52/webanns)\] \[[Demo](https://morgen52.github.io/webanns)\]
   <!-- \[Citations: <span class="show_paper_citations" data="LzfXRiAAAAAJ:Y0pCki6q_DkC"></span>\] -->
   <!-- google scholar citation_for_view=LzfXRiAAAAAJ:Y0pCki6q_DkC -->
-  - Zhong, Siqi, **Liu, Mugeng**, *et al.* “LaTune: Lightweight and Adaptive Configuration Tuning for LLM Inference on Edge Devices.” *Proceedings of the ACM Web Conference 2026 (WWW 2026, CCF-A)*. (To be appeared)
-  - Chen, Zhiyang, Ma, Yun, Shen, Haiyang, and **Liu, Mugeng**. “WeInfer: Unleashing the Power of WebGPU on LLM Inference in Web Browsers.” *Proceedings of the ACM Web Conference 2025 (WWW 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714553)\] \[[Repo](https://github.com/csAugust/WeInfer)\]
+  - Zhong, Siqi, **Liu, Mugeng**, *et al.* "LaTune: Lightweight and Adaptive Configuration Tuning for LLM Inference on Edge Devices." *Proceedings of the ACM Web Conference 2026 (WWW 2026, CCF-A)*. (To appear)
+  - Chen, Zhiyang, Ma, Yun, Shen, Haiyang, and **Liu, Mugeng**. "WeInfer: Unleashing the Power of WebGPU on LLM Inference in Web Browsers." *Proceedings of the ACM Web Conference 2025 (WWW 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714553)\] \[[Repo](https://github.com/csAugust/WeInfer)\]
 
 - **Robust Agent**
-  - **Liu, Mugeng**, *et al.* “WebAssembly for Container Runtime: Are We There Yet?” *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3712197)\] \[[Repo](https://github.com/morgen52/measurement_of_wasm_container)\]
-  - **Liu, Mugeng**, *et al.* “A First Look at Bugs in LLM Inference Engines.” *ACM Transactions on Software Engineering and Methodology (TOSEM 2026, CCF-A)*. \[[Paper](https://arxiv.org/abs/2506.09713)\]
-  - Zhang, Yixuan, **Liu, Mugeng**, *et al.* “Research on WebAssembly Runtimes: A Survey.” *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3714465)\]
+  - **Liu, Mugeng**, *et al.* "WebAssembly for Container Runtime: Are We There Yet?" *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3712197)\] \[[Repo](https://github.com/morgen52/measurement_of_wasm_container)\]
+  - **Liu, Mugeng**, *et al.* "A First Look at Bugs in LLM Inference Engines." *ACM Transactions on Software Engineering and Methodology (TOSEM 2026, CCF-A)*. \[[Paper](https://arxiv.org/abs/2506.09713)\]
+  - Zhang, Yixuan, **Liu, Mugeng**, *et al.* "Research on WebAssembly Runtimes: A Survey." *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3714465)\]
 
 - **Agent Workflow**
-  <!-- - Qin Chen, Yuanyi Ren, Xiaojun Ma, **Mugeng Liu**, *et al.* “SheetDesigner: Assisting Spreadsheet Design with Large Language Models.” *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, CCF-B)*. \[[Paper](https://aclanthology.org/2025.emnlp-main.957/)\] -->
-  - Chen, Qin, Ren, Yuanyi, Ma, Xiaojun, **Liu, Mugeng**, *et al.* “SheetDesigner: Assisting Spreadsheet Design with Large Language Models.” *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, CCF-B)*. \[[Paper](https://aclanthology.org/2025.emnlp-main.957/)\]
+  - **Liu, Mugeng**, *et al.* "ROGA: Scaling Generalist Agents for Office Productivity Tasks via Tool Generation" (ICLR 2026). (To appear)
+  - Shen, Haiyang, Yan, Hang, Xing, Zhongshi, **Liu, Mugeng**, *et al.* "DRAGON: Domain-specific Robust Automatic Data Generation for RAG Optimization." (EACL 2026). (To appear) \[[Paper](https://arxiv.org/abs/2505.10989)\]
+  - Chen, Qin, Ren, Yuanyi, Ma, Xiaojun, **Liu, Mugeng**, *et al.* "SheetDesigner: Assisting Spreadsheet Design with Large Language Models." *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, CCF-B)*. \[[Paper](https://aclanthology.org/2025.emnlp-main.957/)\]
 
 - **Others**
-  - **Liu, Mugeng**, *et al.* “Research Artifacts in Software Engineering Publications: Status and Trends.” *Journal of Systems and Software (JSS 2024, CCF-B)*. \[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016412122400075X)\] \[[Repo](https://github.com/morgen52/SE-artifact)\]
+  - **Liu, Mugeng**, *et al.* "Research Artifacts in Software Engineering Publications: Status and Trends." *Journal of Systems and Software (JSS 2024, CCF-B)*. \[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016412122400075X)\] \[[Repo](https://github.com/morgen52/SE-artifact)\]
 
 # 📂 Projects
 - **ATMOS: AI-Assisted Teaching Mode Optimization System** (Mar. 2022 – Feb. 2024)
