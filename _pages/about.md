@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there!👋 I am **LIU Mugeng**, a Ph.D. candidate at the School of Computer Science, Peking University, advised by Prof. [MEI Hong](https://cs.pku.edu.cn/info/1158/1828.htm), Prof. [LIU Xuanzhe](http://www.liuxuanzhe.com/), and Prof. [MA Yun](https://www.ai.pku.edu.cn/en/info/1458/2026.htm).
+Hi there!👋 I am **LIU Mugeng**, a Ph.D. candidate at the School of Computer Science, Peking University, advised by Prof. [MEI Hong](https://cs.pku.edu.cn/info/1158/1828.htm), Prof. [LIU Xuanzhe](http://www.liuxuanzhe.com/), and Prof. [MA Yun](https://www.ai.pku.edu.cn/en/info/1458/2026.htm). Previously, I received my B.S. in Computer Science from Peking University. 
 My research interests lie at the intersection of **artificial intelligence** and **software engineering/systems**, with a focus on building **efficient, robust, and interaction-friendly runtime systems for LLM-based agents**, especially in **Web environments**.
 
 Currently, I am particularly interested in the **Agentic Web**. Specifically, I am passionate about exploring:
