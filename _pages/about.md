@@ -52,7 +52,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 # 📝 Selected Publications 
 
 <!-- Citations: <strong><span id="total_cit">-</span></strong> |  h-index: <strong><span id="h_index">-</span></strong>  |  i10-index: <strong><span id="i10_index">-</span></strong> -->
-- **Agent Workflow**
+- **Agentic Workflow**
   - **Liu, Mugeng**, *et al.* "ROGA: Scaling Generalist Agents for Office Productivity Tasks via Tool Generation" (ICLR 2026). (To appear)
   - Shen, Haiyang, Yan, Hang, Xing, Zhongshi, **Liu, Mugeng**, *et al.* "DRAGON: Domain-specific Robust Automatic Data Generation for RAG Optimization." (EACL 2026). (To appear) \[[Paper](https://arxiv.org/abs/2505.10989)\]
   - Chen, Qin, Ren, Yuanyi, Ma, Xiaojun, **Liu, Mugeng**, *et al.* "SheetDesigner: Assisting Spreadsheet Design with Large Language Models." *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, CCF-B)*. \[[Paper](https://aclanthology.org/2025.emnlp-main.957/)\]
