@@ -33,13 +33,13 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 
 # 🔥 News
 - *Jan. 2026*: 🎉🎉🎉 Our paper "ROGA" on efficient self-envolving office agent was accepted by ICLR 2026!
-- *Jan. 2026*: 🎉🎉🎉 Our work "WAB: Overcoming Memory, Network, and Security Walls in Native Agentic Browsers with WebAssembly" was accepted by FAAW @ WWW 2026!
+- *Jan. 2026*: 🎉🎉🎉 Our work "WAB" on efficient agentic web runtime was accepted by FAAW @ WWW 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our paper "LaTune" was accepted by WWW 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our paper "DRAGON" was accepted by EACL 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our paper on bugs in LLM inference engines was accepted by TOSEM 2026!
 - *Dec. 2025*: 🎉🎉🎉 Our empirical study on WebGPU was accepted by ICSE 2026!
 - *Aug. 2025*: 🎉🎉🎉 Our paper "SheetDesigner" was accepted by EMNLP 2025! This work was done during my internship at *Microsoft*!
-- *Apr. 2025*: 🎉🎉🎉 Our paper "WebANNS" was accepted by SIGIR 2025!
+- *Apr. 2025*: 🎉🎉🎉 Our paper "WebANNS" on efficient in-browser RAG was accepted by SIGIR 2025!
 - *Jan. 2025*: 🎉🎉🎉 Our paper "WeInfer" was accepted by WWW 2025!
 - *Jan. 2025*: 🎉🎉🎉 Our survey paper on WebAssembly runtimes was accepted by TOSEM 2025!
 - *Dec. 2024*: 🎉🎉🎉 Our paper on Wasm-based container runtime was accepted by TOSEM 2025!
