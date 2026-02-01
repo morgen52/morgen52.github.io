@@ -32,7 +32,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 </div>
 
 # 🔥 News
-- *Jan. 2026*: 🎉🎉🎉 Our paper "ROGA" was accepted by ICLR 2026!
+- *Jan. 2026*: 🎉🎉🎉 Our paper "ROGA" on efficient self-envolving office agent was accepted by ICLR 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our work "WAB: Overcoming Memory, Network, and Security Walls in Native Agentic Browsers with WebAssembly" was accepted by FAAW @ WWW 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our paper "LaTune" was accepted by WWW 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our paper "DRAGON" was accepted by EACL 2026!
