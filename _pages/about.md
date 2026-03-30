@@ -55,7 +55,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 <!-- Citations: <strong><span id="total_cit">-</span></strong> |  h-index: <strong><span id="h_index">-</span></strong>  |  i10-index: <strong><span id="i10_index">-</span></strong> -->
 - **Agentic Workflow**
   - **Liu, Mugeng**, *et al.* "ROGA: Scaling Generalist Agents for Office Productivity Tasks via Tool Generation" *Proceedings of the Fourteenth International Conference on Learning Representations. (ICLR 2026, CCF-A)*.  \[[Paper](https://openreview.net/forum?id=KTyLxtODB9)\]
-  - Shen, Haiyang, Yan, Hang, Xing, Zhongshi, **Liu, Mugeng**, *et al.* "DRAGON: Domain-specific Robust Automatic Data Generation for RAG Optimization." *(EACL 2026, CCF-B)*. (To appear) \[[Paper](https://arxiv.org/abs/2505.10989)\]
+  - Shen, Haiyang, Yan, Hang, Xing, Zhongshi, **Liu, Mugeng**, *et al.* "DRAGON: Domain-specific Robust Automatic Data Generation for RAG Optimization." *(EACL 2026)*. (To appear) \[[Paper](https://arxiv.org/abs/2505.10989)\]
   - Chen, Qin, Ren, Yuanyi, Ma, Xiaojun, **Liu, Mugeng**, *et al.* "SheetDesigner: Assisting Spreadsheet Design with Large Language Models." *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, CCF-B)*. \[[Paper](https://aclanthology.org/2025.emnlp-main.957/)\]
   - Xie, Yuhang, ..., **Liu, Mugeng**, *et al.* "From Task to Tutorial: An Automated GUI Framework for Excel Tutorial Document and Video Creation." *Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2026, CCF-A)*. \[[paper](https://arxiv.org/abs/2509.21816)\]
 
