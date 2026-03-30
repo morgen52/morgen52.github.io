@@ -32,7 +32,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 </div>
 
 # 🔥 News
-- *Mar. 2026*: 🎉🎉🎉 Our paper "From Task to Tutorial: An Automated GUI Framework for Excel Tutorial Document and Video Creation" was accepted by FSE 2026!
+- *Mar. 2026*: 🎉🎉🎉 Our paper "From Task to Tutorial" was accepted by FSE 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our paper "ROGA" on efficient self-envolving office agent was accepted by ICLR 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our work "WAB" on efficient agentic web runtime was accepted by FAAW @ WWW 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our paper "LaTune" was accepted by WWW 2026!
