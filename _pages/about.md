@@ -32,6 +32,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 </div>
 
 # 🔥 News
+- *Mar. 2026*: Our **ThinkSync-AI** startup team open-sourced [OpenWebClaw](https://github.com/ThinkSync-AI/OpenWebClaw/), a **web-native** AI agent built for **personalized** and **long-running** web tasks, with **self-revolution** driven by continuously evolving skills, memories, and experience.
 - *Mar. 2026*: 🎉🎉🎉 Our paper "From Task to Tutorial" was accepted by FSE 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our paper "ROGA" on efficient self-envolving office agent was accepted by ICLR 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our work "WAB" on efficient agentic web runtime was accepted by FAAW @ WWW 2026!
@@ -78,6 +79,9 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 
 
 # 📂 Projects
+- **[OpenWebClaw](https://github.com/ThinkSync-AI/OpenWebClaw/)** (2026 - Present)
+  - A **web-native** AI agent developed by our **ThinkSync-AI** startup team for **personalized** assistance and **long-running** task execution directly on the web.
+  - Enables **self-revolution** through the continuous accumulation and evolution of reusable skills, memories, and site-specific experience.
 - **ATMOS: AI-Assisted Teaching Mode Optimization System** (Mar. 2022 – Feb. 2024)
   - Developed an AI system that automatically analyzes classroom teaching modes and generates optimization recommendations; *deployed in Peking University courses*.
   - Collaborated with graduate students and faculty across **software engineering**, **artificial intelligence**, **education**, and **psychology**.
