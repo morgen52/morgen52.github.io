@@ -75,7 +75,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 
 - **Others**
   - **Liu, Mugeng**, *et al.* "Research Artifacts in Software Engineering Publications: Status and Trends." *Journal of Systems and Software (JSS 2024, CCF-B)*. \[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016412122400075X)\] \[[Repo](https://github.com/morgen52/SE-artifact)\]
-  - Yudong Han, Weichen Bi, Haiyang Shen, **Mugeng Liu**, *et al.* "Characterizing GPU-accelerated Web Applications in Browsers" *Proceedings of the 48th International Conference on Software Engineering (ICSE 2026, CCF-A)*. (To appear)
+  - Han, Yudong, Bi, Weichen, Shen, Haiyang, **Liu, Mugeng**, *et al.* "Characterizing GPU-accelerated Web Applications in Browsers" *Proceedings of the 48th International Conference on Software Engineering (ICSE 2026, CCF-A)*. (To appear)
 
 
 # 📂 Projects
