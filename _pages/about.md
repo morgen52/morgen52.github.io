@@ -32,7 +32,8 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 </div>
 
 # 🔥 News
-- *Mar. 2026*: 🎉🎉🎉 Our **ThinkSync-AI** startup team open-sourced [OpenWebClaw](https://github.com/ThinkSync-AI/OpenWebClaw/), a **web-native** AI agent built for **personalized** and **long-running** web tasks, with **self-revolution** driven by continuously evolving skills, memories, and experience.
+- *May. 2026*: 🎉🎉🎉 Our paper on flexible agentic web service interface was accepted by ICML 2026!
+- *Mar. 2026*: 🎉🎉🎉 Our [**ThinkSync-AI team**](https://www.think-sync.ai/) open-sourced [OpenWebClaw](https://github.com/ThinkSync-AI/OpenWebClaw/), a **web-native** AI agent built for **personalized** and **long-running** web tasks, with **self-revolution** driven by continuously evolving skills, memories, and experience.
 - *Mar. 2026*: 🎉🎉🎉 Our paper "From Task to Tutorial" was accepted by FSE 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our paper "ROGA" on efficient self-envolving office agent was accepted by ICLR 2026!
 - *Jan. 2026*: 🎉🎉🎉 Our work "WAB" on efficient agentic web runtime was accepted by FAAW @ WWW 2026!
@@ -55,6 +56,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 
 <!-- Citations: <strong><span id="total_cit">-</span></strong> |  h-index: <strong><span id="h_index">-</span></strong>  |  i10-index: <strong><span id="i10_index">-</span></strong> -->
 - **Agentic Workflow**
+  - **Liu, Mugeng**, *et al.* "Beyond Static Endpoints: Tool Programs as an Interface for Flexible Agentic Web Services." *(ICML 2026, CCF-A)*.
   - **Liu, Mugeng**, *et al.* "ROGA: Scaling Generalist Agents for Office Productivity Tasks via Tool Generation" *Proceedings of the Fourteenth International Conference on Learning Representations. (ICLR 2026, CCF-A)*.  \[[Paper](https://openreview.net/forum?id=KTyLxtODB9)\]
   - Shen, Haiyang, Yan, Hang, Xing, Zhongshi, **Liu, Mugeng**, *et al.* "DRAGON: Domain-specific Robust Automatic Data Generation for RAG Optimization." *(EACL 2026)*. \[[Paper](https://arxiv.org/abs/2505.10989)\]
   - Xie, Yuhang, ..., **Liu, Mugeng**, *et al.* "From Task to Tutorial: An Automated GUI Framework for Excel Tutorial Document and Video Creation." *Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2026, CCF-A)*. \[[paper](https://arxiv.org/abs/2509.21816)\]
@@ -80,7 +82,7 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 
 # 📂 Projects
 - **[OpenWebClaw](https://github.com/ThinkSync-AI/OpenWebClaw/)** (Jan. 2026 - Present)
-  - A **web-native** AI agent developed by our **ThinkSync-AI** startup team for **personalized** assistance and **long-running** task execution directly on the web.
+  - A **web-native** AI agent developed by our [**ThinkSync-AI team**](https://www.think-sync.ai/) for **personalized** assistance and **long-running** task execution directly on the web.
   - Enables **self-revolution** through the continuous accumulation and evolution of reusable skills, memories, and site-specific experience.
 - **ATMOS: AI-Assisted Teaching Mode Optimization System** (Mar. 2022 – Feb. 2024)
   - Developed an AI system that automatically analyzes classroom teaching modes and generates optimization recommendations; *deployed in Peking University courses*.
