@@ -17,19 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there!👋 I am **LIU Mugeng**, a Ph.D. candidate at the School of Computer Science, Peking University, advised by Prof. [MEI Hong](https://cs.pku.edu.cn/info/1158/1828.htm), Prof. [LIU Xuanzhe](http://www.liuxuanzhe.com/), and Prof. [MA Yun](https://www.ai.pku.edu.cn/en/info/1458/2026.htm). Previously, I received my B.S. in Computer Science from Peking University. 
-My research interests lie at the intersection of **artificial intelligence** and **software engineering/systems**, with a focus on building **efficient, robust, and interaction-friendly runtime systems for LLM-based agents**, especially in **Web environments**.
+Hi there!👋 I am **LIU Mugeng**, a Ph.D. candidate at the School of Computer Science, Peking University, advised by Prof. [MEI Hong](https://cs.pku.edu.cn/info/1158/1828.htm), Prof. [LIU Xuanzhe](http://www.liuxuanzhe.com/), and Prof. [MA Yun](https://www.ai.pku.edu.cn/en/info/1458/2026.htm). Previously, I received my B.S. in Computer Science from Peking University.
 
-Currently, I am particularly interested in the **Agentic Web**. Specifically, I am passionate about exploring:
+My research lies at the intersection of **artificial intelligence** and **software engineering/systems**. My current core agenda is **agent harness**: the systems layer around LLM agents that turns model capability into reliable real-world applications.
 
-(1) How to enable **agent execution** and **RL-based post-training** within Web runtime environments;
-
-(2) How to design **agent workflows** to enhance Web automation.
+I have published 14+ papers at leading venues, spanning ICML, ICLR, EMNLP, EACL, SIGIR, WWW, ICSE, FSE, and TOSEM. Beyond publications, I lead and contribute to real-world agent and AI systems, mainly in [ThinkSync AI](https://www.think-sync.ai/) product systems such as OpenWebClaw, SparkBox, WebAct, and ThinkX, and deployed educational AI systems such as ATMOS.
 
 # 🔍 Research Interests
-<div id="research-interests" style="text-align:center;">
-  <img src="images/research-interests.png" alt="Research mind map" style="max-width:800px;width:100%;height:auto;">
-</div>
+<figure id="research-interests" class="research-interest-figure">
+  <img
+    src="{{ '/images/panel.png' | relative_url }}"
+    alt="Overview of my research focus on agent harnesses, workflow orchestration, tools, and execution runtimes"
+    class="research-interest-image"
+    loading="lazy"
+  >
+  <figcaption class="research-interest-caption">
+    My research focus on agent harnesses: context and memory, workflow orchestration, tools and skills, and execution runtimes for real-world applications.
+  </figcaption>
+</figure>
 
 # 🔥 News
 - *May. 2026*: 🎉🎉🎉 Our paper on flexible agentic web service interface was accepted by ICML 2026!
@@ -54,40 +59,37 @@ Currently, I am particularly interested in the **Agentic Web**. Specifically, I 
 
 # 📝 Selected Publications 
 
-<!-- Citations: <strong><span id="total_cit">-</span></strong> |  h-index: <strong><span id="h_index">-</span></strong>  |  i10-index: <strong><span id="i10_index">-</span></strong> -->
-- **Agentic Workflow**
-  - **Liu, Mugeng**, *et al.* "Beyond Static Endpoints: Tool Programs as an Interface for Flexible Agentic Web Services." *(ICML 2026, CCF-A)*.
-  - **Liu, Mugeng**, *et al.* "ROGA: Scaling Generalist Agents for Office Productivity Tasks via Tool Generation" *Proceedings of the Fourteenth International Conference on Learning Representations. (ICLR 2026, CCF-A)*.  \[[Paper](https://openreview.net/forum?id=KTyLxtODB9)\]
-  - Shen, Haiyang, Yan, Hang, Xing, Zhongshi, **Liu, Mugeng**, *et al.* "DRAGON: Domain-specific Robust Automatic Data Generation for RAG Optimization." *(EACL 2026)*. \[[Paper](https://arxiv.org/abs/2505.10989)\]
-  - Xie, Yuhang, ..., **Liu, Mugeng**, *et al.* "From Task to Tutorial: An Automated GUI Framework for Excel Tutorial Document and Video Creation." *Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2026, CCF-A)*. \[[paper](https://arxiv.org/abs/2509.21816)\]
-  - Chen, Qin, Ren, Yuanyi, Ma, Xiaojun, **Liu, Mugeng**, *et al.* "SheetDesigner: Assisting Spreadsheet Design with Large Language Models." *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, CCF-B)*. \[[Paper](https://aclanthology.org/2025.emnlp-main.957/)\]
-
-- **Efficient Agent**
-  - **Liu, Mugeng**, *et al.* "WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers." *Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3726302.3730115)\] \[[Repo](https://github.com/morgen52/webanns)\] \[[Demo](https://morgen52.github.io/webanns)\]
-  <!-- \[Citations: <span class="show_paper_citations" data="LzfXRiAAAAAJ:Y0pCki6q_DkC"></span>\] -->
-  <!-- google scholar citation_for_view=LzfXRiAAAAAJ:Y0pCki6q_DkC -->
-  - **Liu, Mugeng**, *et al.* "WAB: Overcoming Memory, Network, and Security Walls in Native Agentic Browsers with WebAssembly." *The 1st International Workshop on Foundations and Architectures for the Agentic Web (FAAW @ WWW 2026)*. (To appear)
-  - Zhong, Siqi, **Liu, Mugeng**, *et al.* "LaTune: Lightweight and Adaptive Configuration Tuning for LLM Inference on Edge Devices." *Proceedings of the ACM Web Conference 2026 (WWW 2026, CCF-A)*. (To appear)
-  - Chen, Zhiyang, Ma, Yun, Shen, Haiyang, and **Liu, Mugeng**. "WeInfer: Unleashing the Power of WebGPU on LLM Inference in Web Browsers." *Proceedings of the ACM Web Conference 2025 (WWW 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714553)\] \[[Repo](https://github.com/csAugust/WeInfer)\]
-
-- **Robust Agent**
-  - **Liu, Mugeng**, *et al.* "A First Look at Bugs in LLM Inference Engines." *ACM Transactions on Software Engineering and Methodology (TOSEM 2026, CCF-A)*. \[[Paper](https://doi.org/10.1145/3788873)\] \[[Repo](https://github.com/infbug/bugs-in-LLM-inference-engines)\]
-  - **Liu, Mugeng**, *et al.* "WebAssembly for Container Runtime: Are We There Yet?" *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3712197)\] \[[Repo](https://github.com/morgen52/measurement_of_wasm_container)\]
-  - Zhang, Yixuan, **Liu, Mugeng**, *et al.* "Research on WebAssembly Runtimes: A Survey." *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3714465)\]
-
-- **Others**
-  - **Liu, Mugeng**, *et al.* "Research Artifacts in Software Engineering Publications: Status and Trends." *Journal of Systems and Software (JSS 2024, CCF-B)*. \[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016412122400075X)\] \[[Repo](https://github.com/morgen52/SE-artifact)\]
-  - Han, Yudong, Bi, Weichen, Shen, Haiyang, **Liu, Mugeng**, *et al.* "Characterizing GPU-accelerated Web Applications in Browsers" *Proceedings of the 48th International Conference on Software Engineering (ICSE 2026, CCF-A)*. (To appear)
-
+- **Liu, Mugeng**, *et al.* "Beyond Static Endpoints: Tool Programs as an Interface for Flexible Agentic Web Services." *(ICML 2026, CCF-A)*.
+- **Liu, Mugeng**, *et al.* "ROGA: Scaling Generalist Agents for Office Productivity Tasks via Tool Generation" *Proceedings of the Fourteenth International Conference on Learning Representations. (ICLR 2026, CCF-A)*.  \[[Paper](https://openreview.net/forum?id=KTyLxtODB9)\]
+- **Liu, Mugeng**, *et al.* "A First Look at Bugs in LLM Inference Engines." *ACM Transactions on Software Engineering and Methodology (TOSEM 2026, CCF-A)*. \[[Paper](https://doi.org/10.1145/3788873)\] \[[Repo](https://github.com/infbug/bugs-in-LLM-inference-engines)\]
+- **Liu, Mugeng**, *et al.* "WAB: Overcoming Memory, Network, and Security Walls in Native Agentic Browsers with WebAssembly." *The 1st International Workshop on Foundations and Architectures for the Agentic Web (FAAW @ WWW 2026)*. (To appear)
+- **Liu, Mugeng**, *et al.* "WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers." *Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3726302.3730115)\] \[[Repo](https://github.com/morgen52/webanns)\] \[[Demo](https://morgen52.github.io/webanns)\]
+- **Liu, Mugeng**, *et al.* "WebAssembly for Container Runtime: Are We There Yet?" *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3712197)\] \[[Repo](https://github.com/morgen52/measurement_of_wasm_container)\]
+- **Liu, Mugeng**, *et al.* "Research Artifacts in Software Engineering Publications: Status and Trends." *Journal of Systems and Software (JSS 2024, CCF-B)*. \[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016412122400075X)\] \[[Repo](https://github.com/morgen52/SE-artifact)\]
+- Zhong, Siqi, **Liu, Mugeng**, *et al.* "LaTune: Lightweight and Adaptive Configuration Tuning for LLM Inference on Edge Devices." *Proceedings of the ACM Web Conference 2026 (WWW 2026, CCF-A)*. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792382)\]
+- Zhang, Yixuan, **Liu, Mugeng**, *et al.* "Research on WebAssembly Runtimes: A Survey." *ACM Transactions on Software Engineering and Methodology (TOSEM 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/full/10.1145/3714465)\]
+- Han, Yudong, Bi, Weichen, Shen, Haiyang, **Liu, Mugeng**, *et al.* "Characterizing GPU-accelerated Web Applications in Browsers" *Proceedings of the 48th International Conference on Software Engineering (ICSE 2026, CCF-A)*. \[[Paper](https://doi.org/10.1145/3744916.3787824)\]
+- Xie, Yuhang, ..., **Liu, Mugeng**, *et al.* "From Task to Tutorial: An Automated GUI Framework for Excel Tutorial Document and Video Creation." *Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2026, CCF-A)*. \[[paper](https://arxiv.org/abs/2509.21816)\]
+- Shen, Haiyang, Yan, Hang, Xing, Zhongshi, **Liu, Mugeng**, *et al.* "DRAGON: Domain-specific Robust Automatic Data Generation for RAG Optimization." *(EACL 2026)*. \[[Paper](https://arxiv.org/abs/2505.10989)\]
+- Chen, Qin, Ren, Yuanyi, Ma, Xiaojun, **Liu, Mugeng**, *et al.* "SheetDesigner: Assisting Spreadsheet Design with Large Language Models." *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, CCF-B)*. \[[Paper](https://aclanthology.org/2025.emnlp-main.957/)\]
+- Chen, Zhiyang, Ma, Yun, Shen, Haiyang, and **Liu, Mugeng**. "WeInfer: Unleashing the Power of WebGPU on LLM Inference in Web Browsers." *Proceedings of the ACM Web Conference 2025 (WWW 2025, CCF-A)*. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714553)\] \[[Repo](https://github.com/csAugust/WeInfer)\]
 
 # 📂 Projects
-- **[OpenWebClaw](https://github.com/ThinkSync-AI/OpenWebClaw/)** (Jan. 2026 - Present)
-  - A **web-native** AI agent developed by our [**ThinkSync-AI team**](https://www.think-sync.ai/) for **personalized** assistance and **long-running** task execution directly on the web.
-  - Enables **self-revolution** through the continuous accumulation and evolution of reusable skills, memories, and site-specific experience.
+
+- **[ThinkSync AI systems](https://www.think-sync.ai/)** (Dec. 2025 - Present)
+  - Leader and core contributor, built a family of real-world LLM agent products, covering web-native automation, personalized AI, reusable skills, and human-agent collaboration.
+  - **[OpenWebClaw](https://github.com/ThinkSync-AI/OpenWebClaw/)** (Jan. 2026 - Present)
+    - A **web-native** AI agent developed by our ThinkSync-AI team for **personalized** assistance and **long-running** task execution directly on the web.
+    - Maintains persistent context, reusable skills, scheduled automation, and site-specific experience so agents can improve from previous tasks rather than starting from scratch.
+  - **[SparkBox](https://www.think-sync.ai/product/webact)** (Jan. 2026 - Present)
+    - A local-first personalized AI assistant focused on identity continuity, long-term memory, and personal/shared knowledge construction.
+  - **WebAct** (Jan. 2026 - Present)
+    - A human-agent tool for constructing reusable web information-collection and crawler skill scripts with typed inputs, guardrails, versioned rollouts, and observable execution.
+
 - **ATMOS: AI-Assisted Teaching Mode Optimization System** (Mar. 2022 – Feb. 2024)
   - Developed an AI system that automatically analyzes classroom teaching modes and generates optimization recommendations; *deployed in Peking University courses*.
   - Collaborated with graduate students and faculty across **software engineering**, **artificial intelligence**, **education**, and **psychology**.
-  - Served as the core developer, leading **DL-based analysis algorithm** design, end-to-end implementation of the **cloud–edge–IoT** architecture, and system deployment.
+  - Served as the core developer, leading **DL-based analysis algorithm** design, end-to-end implementation of the **cloud-edge-IoT** architecture, and system deployment.
 
 # 💼 Experiences
 - **Research Intern, Microsoft** (May. 2025 - Dec. 2025)

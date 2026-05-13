@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mugeng Liu"
-description              : "I am currently passionate about building efficient, robust, and interaction-friendly runtime systems for the Agentic Web! Feel free to contact me if you are interested in my research."
+description              : "I build agent harnesses for LLM agents: context and memory, tool and skill interfaces, workflow orchestration, execution runtimes, and evaluation/safety for real-world Web, office, and personalized AI tasks."
 repository               : "morgen52/morgen52.github.io"
 google_scholar_stats_use_cdn : true
 
